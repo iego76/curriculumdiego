@@ -2,3 +2,25 @@
     margin: 0;
     padding: 0;
 }
+.enunciado{
+    display: flex;
+justify-content: center;
+ 
+}
+.encabezado{
+    display: flex; 
+    justify-content: space-around;
+}
+.datos{
+    display: flex;
+    jus
+    
+    
+}
+.texto{
+
+}
+
+.negrita{
+    font-weight: bold;
+}
