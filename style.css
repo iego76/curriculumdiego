@@ -4,23 +4,15 @@
 }
 .enunciado{
     display: flex;
-justify-content: center;
- 
+justify-content: center; 
 }
 .encabezado{
     display: flex; 
     justify-content: space-around;
 }
 .datos{
-    display: flex;
-    jus
-    
-    
+    display: flex; 
 }
-.texto{
-
-}
-
 .negrita{
     font-weight: bold;
 }
